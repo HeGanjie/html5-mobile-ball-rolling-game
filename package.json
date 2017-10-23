@@ -1,0 +1,25 @@
+{
+  "name": "html5-mobile-ball-rolling-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeGanjie/html5-mobile-ball-rolling-game.git"
+  },
+  "author": "Bruce He",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeGanjie/html5-mobile-ball-rolling-game/issues"
+  },
+  "homepage": "https://github.com/HeGanjie/html5-mobile-ball-rolling-game#readme",
+  "dependencies": {
+    "react": "15.5.3",
+    "react-dom": "15.5.3",
+    "react-three-renderer": "3.2.1",
+    "three": "0.84.0"
+  }
+}
